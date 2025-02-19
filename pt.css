@@ -1,0 +1,42 @@
+body {
+    background-color: #335169;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+  }
+  
+  .container {
+    background-color: #45d1ae7a;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 100%;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    color: #333;
+  }
+  
+  p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+  }
+  
+  img {
+    width: 150px;
+    height: 150px;
+  }
+  
+  .btn {
+    width: 100%;
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+    background-color: darkred;
+  }
+  
+  .btn:hover {
+    opacity: 0.8;
+  }
